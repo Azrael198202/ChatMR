@@ -1,4 +1,8 @@
 mr-backend/package-lock.json
-mr-backend/node_modules/
+mr-backend/node_modules/*
 mr-backend/.env
-
+HL2_Realtime_WS_Starter/Temp/*
+HL2_Realtime_WS_Starter/Library/*
+HL2_Realtime_WS_Starter/Logs/*
+HL2_Realtime_WS_Starter/ProjectSettings/*
+HL2_Realtime_WS_Starter/UserSettings/*
